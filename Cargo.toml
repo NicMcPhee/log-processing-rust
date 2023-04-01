@@ -11,5 +11,7 @@ path = "src/bin/main.rs"
 
 [dependencies]
 anyhow = "1.0.70"
+flate2 = "1.0.25"
 itertools = "0.10.5"
 nom = "7.1.3"
+tar = "0.4.38"
